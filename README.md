@@ -7,7 +7,6 @@ I am **Aryan Bansal**, a **Bachelor’s** student zealous about mathematics & co
 * Always open to collaborating on projects & innovative ideas. 
 
 _Connect with me:_
-
 <p>
 	<a href = "https://www.linkedin.com/in/aryan-bansal-278106220">
 		<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,7 +14,7 @@ _Connect with me:_
 	<a href = "https://twitter.com/AryanBansal_13">
 		<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-  <a href = "mailto:aryan1301.bansal@gmail.com">
+  	<a href = "mailto:aryan1301.bansal@gmail.com">
 		<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
@@ -57,6 +56,5 @@ _Connect with me:_
 
 
 ## 
-
 
 <a><img src = "https://github-readme-activity-graph.cyclic.app/graph?username=aryan-bansal&bg_color=000000&color=3cff1a&line=000000&point=ff0000&area=true&hide_border=true" /></a>
