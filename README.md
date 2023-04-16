@@ -58,4 +58,5 @@ _Connect with me:_
 
 ## 
 
-<a><img alt = "Aryan's Actiivty Stats" src = "https://github-readme-activity-graph.cyclic.app/graph?username=aryan-bansal&bg_color=000000&color=39ff14&line=000000&point=ff0000&area=true&hide_border=true" /></a>
+
+<a><img src = "https://github-readme-activity-graph.cyclic.app/graph?username=aryan-bansal&bg_color=000000&color=3cff1a&line=000000&point=ff0000&area=true&hide_border=true" /></a>
