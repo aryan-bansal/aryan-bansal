@@ -6,7 +6,7 @@ I am **Aryan Bansal**, a **B.Tech** student zealous about mathematics & computat
 
 * Always open to collaborating on projects & innovative ideas. 
 
-Connect with me on:
+* Connect with me on:
 <p>
 	<a href = "https://www.linkedin.com/in/aryan-bansal-278106220">
 		<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
