@@ -2,11 +2,11 @@
 
 <img src = "/source/header.png"></a>
 
-I am **Aryan Bansal**, a **Bachelor’s** student zealous about mathematics & computation with some experience specialising in **Advanced Mathematics**, **Front-End Web Development** & **Software Development**. 
+I am **Aryan Bansal**, a **B.Tech** student zealous about mathematics & computation with some experience specialising in **Advanced Mathematics**, **Front-End Web Development** & **Software Development**. 
 
 * Always open to collaborating on projects & innovative ideas. 
 
-_Connect with me:_
+_Reach me on:_
 <p>
 	<a href = "https://www.linkedin.com/in/aryan-bansal-278106220">
 		<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
