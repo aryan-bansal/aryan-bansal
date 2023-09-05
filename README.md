@@ -2,7 +2,7 @@
 
 <img src = "/source/header.png"></a>
 
-I am **Aryan Bansal**, a **B.Tech** student zealous about mathematics & computation with some experience specialising in **Advanced Mathematics**, **Front-End Web Development** & **Software Development**. 
+I am **Aryan Bansal**, a **B.Tech** student zealous about mathematics & computation with some experience in **Front-End Web Development**, **Game Development** & **Software Development**. 
 
 * Always open to collaborating on projects & innovative ideas. 
 
