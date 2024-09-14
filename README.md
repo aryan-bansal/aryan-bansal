@@ -61,7 +61,5 @@ I am **Aryan Bansal**, an **undergraduate** zealous about mathematics & computat
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-
 ## 
 
-<a><img src = "[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan-bansal&theme=react-dark)](https://github.com/aryan-bansal/github-readme-activity-graph)" /></a>
