@@ -27,6 +27,7 @@ I am **Aryan Bansal**, an **undergraduate** zealous about mathematics & computat
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -63,4 +64,4 @@ I am **Aryan Bansal**, an **undergraduate** zealous about mathematics & computat
 
 ## 
 
-<a><img src = "https://github-readme-activity-graph.cyclic.app/graph?username=aryan-bansal&bg_color=000000&color=3cff1a&line=000000&point=ff0000&area=true&hide_border=true" /></a>
+<a><img src = "[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan-bansal&theme=react-dark)](https://github.com/aryan-bansal/github-readme-activity-graph)" /></a>
